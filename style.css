@@ -247,6 +247,10 @@ footer .questions {
     max-width: 90vw;
   }
 
+  .main input{
+    padding: 12px 150px 12px 14px;
+  }
+
   .first {
     flex-wrap: wrap;
   }
